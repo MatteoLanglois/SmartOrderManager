@@ -6,7 +6,7 @@
 #define LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_ADMIN_H
 
 
-class Admin {
+class Admin: public Personne {
 
 };
 

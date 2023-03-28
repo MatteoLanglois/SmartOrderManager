@@ -9,7 +9,6 @@ using namespace std;
 
 class Chauffeur : public Personne {
 private:
-    int idChauffeur;
     vector<Trajet> trajets;
 };
 

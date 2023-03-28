@@ -6,9 +6,13 @@
 using namespace std;
 
 class Personne {
-private:
+protected:
+    int id;
     std::string nom;
     std::string prenom;
+    std::string email;
+    std::string motdepasse;
+    int role;
 };
 
 

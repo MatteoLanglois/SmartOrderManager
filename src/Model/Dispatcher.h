@@ -6,10 +6,10 @@
 
 using namespace std;
 
-class Dispatcher {
+class Dispatcher: public Personne {
 private:
-    int idDispatcher;
     vector<Colis> colis;
+
 public:
     void remplir();
     void dispatch();
