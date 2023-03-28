@@ -1,0 +1,15 @@
+#ifndef LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_DISPATCHER_H
+#define LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_DISPATCHER_H
+
+
+class Dispatcher {
+private:
+    int idDispatcher;
+    vector<Colis> colis;
+public:
+    void remplir();
+    void dispatch();
+};
+
+
+#endif //LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_DISPATCHER_H
