@@ -8,8 +8,8 @@ Admin::Admin() {
 
 }
 
-Admin::Admin(const string &nom, const string &prenom, const string &email,
-             const string &password) {
+Admin::Admin(const std::string &nom, const std::string &prenom,
+             const std::string &email, const std::string &motdepasse) {
 
 }
 
@@ -21,39 +21,6 @@ Admin::~Admin() {
 
 }
 
-void Admin::setNom(const string &nom) {
-
-}
-
-void Admin::setPrenom(const string &prenom) {
-
-}
-
-void Admin::setEmail(const string &email) {
-
-}
-
-void Admin::setPassword(const string &password) {
-
-}
-
-string Admin::getNom() const {
-    return this->nom;
-}
-
-string Admin::getPrenom() const {
-    return this->prenom;
-}
-
-string Admin::getEmail() const {
-    return this->email;
-}
-
-string Admin::getPassword() const {
-    return this->motdepasse;
-}
-
 void Admin::afficher() const {
+
 }
-
-
