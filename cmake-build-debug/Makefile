@@ -152,6 +152,126 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+src/Model/Admin.obj: src/Model/Admin.cpp.obj
+.PHONY : src/Model/Admin.obj
+
+# target to build an object file
+src/Model/Admin.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.obj
+.PHONY : src/Model/Admin.cpp.obj
+
+src/Model/Admin.i: src/Model/Admin.cpp.i
+.PHONY : src/Model/Admin.i
+
+# target to preprocess a source file
+src/Model/Admin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.i
+.PHONY : src/Model/Admin.cpp.i
+
+src/Model/Admin.s: src/Model/Admin.cpp.s
+.PHONY : src/Model/Admin.s
+
+# target to generate assembly for a file
+src/Model/Admin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.s
+.PHONY : src/Model/Admin.cpp.s
+
+src/Model/Chauffeur.obj: src/Model/Chauffeur.cpp.obj
+.PHONY : src/Model/Chauffeur.obj
+
+# target to build an object file
+src/Model/Chauffeur.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.obj
+.PHONY : src/Model/Chauffeur.cpp.obj
+
+src/Model/Chauffeur.i: src/Model/Chauffeur.cpp.i
+.PHONY : src/Model/Chauffeur.i
+
+# target to preprocess a source file
+src/Model/Chauffeur.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.i
+.PHONY : src/Model/Chauffeur.cpp.i
+
+src/Model/Chauffeur.s: src/Model/Chauffeur.cpp.s
+.PHONY : src/Model/Chauffeur.s
+
+# target to generate assembly for a file
+src/Model/Chauffeur.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.s
+.PHONY : src/Model/Chauffeur.cpp.s
+
+src/Model/Colis.obj: src/Model/Colis.cpp.obj
+.PHONY : src/Model/Colis.obj
+
+# target to build an object file
+src/Model/Colis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.obj
+.PHONY : src/Model/Colis.cpp.obj
+
+src/Model/Colis.i: src/Model/Colis.cpp.i
+.PHONY : src/Model/Colis.i
+
+# target to preprocess a source file
+src/Model/Colis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.i
+.PHONY : src/Model/Colis.cpp.i
+
+src/Model/Colis.s: src/Model/Colis.cpp.s
+.PHONY : src/Model/Colis.s
+
+# target to generate assembly for a file
+src/Model/Colis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.s
+.PHONY : src/Model/Colis.cpp.s
+
+src/Model/Dispatcher.obj: src/Model/Dispatcher.cpp.obj
+.PHONY : src/Model/Dispatcher.obj
+
+# target to build an object file
+src/Model/Dispatcher.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.obj
+.PHONY : src/Model/Dispatcher.cpp.obj
+
+src/Model/Dispatcher.i: src/Model/Dispatcher.cpp.i
+.PHONY : src/Model/Dispatcher.i
+
+# target to preprocess a source file
+src/Model/Dispatcher.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.i
+.PHONY : src/Model/Dispatcher.cpp.i
+
+src/Model/Dispatcher.s: src/Model/Dispatcher.cpp.s
+.PHONY : src/Model/Dispatcher.s
+
+# target to generate assembly for a file
+src/Model/Dispatcher.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.s
+.PHONY : src/Model/Dispatcher.cpp.s
+
+src/Model/Trajet.obj: src/Model/Trajet.cpp.obj
+.PHONY : src/Model/Trajet.obj
+
+# target to build an object file
+src/Model/Trajet.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.obj
+.PHONY : src/Model/Trajet.cpp.obj
+
+src/Model/Trajet.i: src/Model/Trajet.cpp.i
+.PHONY : src/Model/Trajet.i
+
+# target to preprocess a source file
+src/Model/Trajet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.i
+.PHONY : src/Model/Trajet.cpp.i
+
+src/Model/Trajet.s: src/Model/Trajet.cpp.s
+.PHONY : src/Model/Trajet.s
+
+# target to generate assembly for a file
+src/Model/Trajet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.s
+.PHONY : src/Model/Trajet.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -164,6 +284,21 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... src/Model/Admin.obj
+	@echo ... src/Model/Admin.i
+	@echo ... src/Model/Admin.s
+	@echo ... src/Model/Chauffeur.obj
+	@echo ... src/Model/Chauffeur.i
+	@echo ... src/Model/Chauffeur.s
+	@echo ... src/Model/Colis.obj
+	@echo ... src/Model/Colis.i
+	@echo ... src/Model/Colis.s
+	@echo ... src/Model/Dispatcher.obj
+	@echo ... src/Model/Dispatcher.i
+	@echo ... src/Model/Dispatcher.s
+	@echo ... src/Model/Trajet.obj
+	@echo ... src/Model/Trajet.i
+	@echo ... src/Model/Trajet.s
 .PHONY : help
 
 

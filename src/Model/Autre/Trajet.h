@@ -1,7 +1,7 @@
 #ifndef LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_TRAJET_H
 #define LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_TRAJET_H
 
-#include "Chauffeur.h"
+#include "../Personne/Chauffeur.h"
 #include <string>
 
 using namespace std;

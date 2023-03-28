@@ -2,7 +2,7 @@
 #define LANGLOISMATTEODEVOBJET_PROJETSMARTORDERMANAGER_CHAUFFEUR_H
 
 #include "Personne.h"
-#include "Trajet.h"
+#include "../Autre/Trajet.h"
 #include <vector>
 
 using namespace std;

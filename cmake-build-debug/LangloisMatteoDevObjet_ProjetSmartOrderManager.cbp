@@ -83,6 +83,36 @@
 		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/main.cpp">
 			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
 		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Admin.cpp">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Admin.h">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Chauffeur.cpp">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Chauffeur.h">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Colis.cpp">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Colis.h">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Dispatcher.cpp">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Dispatcher.h">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Trajet.cpp">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
+		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/src/Model/Trajet.h">
+			<Option target="LangloisMatteoDevObjet_ProjetSmartOrderManager"/>
+		</Unit>
 		<Unit filename="C:/Users/mamac/Documents/Cours/L2Info/Projet/LangloisMatteoDevObjet_ProjetSmartOrderManager/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
