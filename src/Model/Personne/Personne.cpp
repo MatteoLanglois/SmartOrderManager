@@ -1,7 +1,3 @@
-//
-// Created by mamac on 28/03/2023.
-//
-
 #include "Personne.h"
 
 /* Statique */
@@ -28,19 +24,19 @@ Personne::~Personne() {
 }
 
 void Personne::setNom(const std::string &nom) {
-
+    this->nom = nom;
 }
 
 void Personne::setPrenom(const std::string &prenom) {
-
+    this->prenom = prenom;
 }
 
 void Personne::setEmail(const std::string &email) {
-
+    this->email = email;
 }
 
 void Personne::setMotdepasse(const std::string &motdepasse) {
-
+    this->motdepasse = motdepasse;
 }
 
 std::string Personne::getNom() const {

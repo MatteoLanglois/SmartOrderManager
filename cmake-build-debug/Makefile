@@ -152,125 +152,149 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/main.cpp.s
 .PHONY : main.cpp.s
 
-src/Model/Admin.obj: src/Model/Admin.cpp.obj
-.PHONY : src/Model/Admin.obj
+src/Model/Autre/Colis.obj: src/Model/Autre/Colis.cpp.obj
+.PHONY : src/Model/Autre/Colis.obj
 
 # target to build an object file
-src/Model/Admin.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.obj
-.PHONY : src/Model/Admin.cpp.obj
+src/Model/Autre/Colis.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Colis.cpp.obj
+.PHONY : src/Model/Autre/Colis.cpp.obj
 
-src/Model/Admin.i: src/Model/Admin.cpp.i
-.PHONY : src/Model/Admin.i
+src/Model/Autre/Colis.i: src/Model/Autre/Colis.cpp.i
+.PHONY : src/Model/Autre/Colis.i
 
 # target to preprocess a source file
-src/Model/Admin.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.i
-.PHONY : src/Model/Admin.cpp.i
+src/Model/Autre/Colis.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Colis.cpp.i
+.PHONY : src/Model/Autre/Colis.cpp.i
 
-src/Model/Admin.s: src/Model/Admin.cpp.s
-.PHONY : src/Model/Admin.s
+src/Model/Autre/Colis.s: src/Model/Autre/Colis.cpp.s
+.PHONY : src/Model/Autre/Colis.s
 
 # target to generate assembly for a file
-src/Model/Admin.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Admin.cpp.s
-.PHONY : src/Model/Admin.cpp.s
+src/Model/Autre/Colis.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Colis.cpp.s
+.PHONY : src/Model/Autre/Colis.cpp.s
 
-src/Model/Chauffeur.obj: src/Model/Chauffeur.cpp.obj
-.PHONY : src/Model/Chauffeur.obj
+src/Model/Autre/Trajet.obj: src/Model/Autre/Trajet.cpp.obj
+.PHONY : src/Model/Autre/Trajet.obj
 
 # target to build an object file
-src/Model/Chauffeur.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.obj
-.PHONY : src/Model/Chauffeur.cpp.obj
+src/Model/Autre/Trajet.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Trajet.cpp.obj
+.PHONY : src/Model/Autre/Trajet.cpp.obj
 
-src/Model/Chauffeur.i: src/Model/Chauffeur.cpp.i
-.PHONY : src/Model/Chauffeur.i
+src/Model/Autre/Trajet.i: src/Model/Autre/Trajet.cpp.i
+.PHONY : src/Model/Autre/Trajet.i
 
 # target to preprocess a source file
-src/Model/Chauffeur.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.i
-.PHONY : src/Model/Chauffeur.cpp.i
+src/Model/Autre/Trajet.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Trajet.cpp.i
+.PHONY : src/Model/Autre/Trajet.cpp.i
 
-src/Model/Chauffeur.s: src/Model/Chauffeur.cpp.s
-.PHONY : src/Model/Chauffeur.s
+src/Model/Autre/Trajet.s: src/Model/Autre/Trajet.cpp.s
+.PHONY : src/Model/Autre/Trajet.s
 
 # target to generate assembly for a file
-src/Model/Chauffeur.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Chauffeur.cpp.s
-.PHONY : src/Model/Chauffeur.cpp.s
+src/Model/Autre/Trajet.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Autre/Trajet.cpp.s
+.PHONY : src/Model/Autre/Trajet.cpp.s
 
-src/Model/Colis.obj: src/Model/Colis.cpp.obj
-.PHONY : src/Model/Colis.obj
+src/Model/Personne/Admin.obj: src/Model/Personne/Admin.cpp.obj
+.PHONY : src/Model/Personne/Admin.obj
 
 # target to build an object file
-src/Model/Colis.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.obj
-.PHONY : src/Model/Colis.cpp.obj
+src/Model/Personne/Admin.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Admin.cpp.obj
+.PHONY : src/Model/Personne/Admin.cpp.obj
 
-src/Model/Colis.i: src/Model/Colis.cpp.i
-.PHONY : src/Model/Colis.i
+src/Model/Personne/Admin.i: src/Model/Personne/Admin.cpp.i
+.PHONY : src/Model/Personne/Admin.i
 
 # target to preprocess a source file
-src/Model/Colis.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.i
-.PHONY : src/Model/Colis.cpp.i
+src/Model/Personne/Admin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Admin.cpp.i
+.PHONY : src/Model/Personne/Admin.cpp.i
 
-src/Model/Colis.s: src/Model/Colis.cpp.s
-.PHONY : src/Model/Colis.s
+src/Model/Personne/Admin.s: src/Model/Personne/Admin.cpp.s
+.PHONY : src/Model/Personne/Admin.s
 
 # target to generate assembly for a file
-src/Model/Colis.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Colis.cpp.s
-.PHONY : src/Model/Colis.cpp.s
+src/Model/Personne/Admin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Admin.cpp.s
+.PHONY : src/Model/Personne/Admin.cpp.s
 
-src/Model/Dispatcher.obj: src/Model/Dispatcher.cpp.obj
-.PHONY : src/Model/Dispatcher.obj
+src/Model/Personne/Chauffeur.obj: src/Model/Personne/Chauffeur.cpp.obj
+.PHONY : src/Model/Personne/Chauffeur.obj
 
 # target to build an object file
-src/Model/Dispatcher.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.obj
-.PHONY : src/Model/Dispatcher.cpp.obj
+src/Model/Personne/Chauffeur.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Chauffeur.cpp.obj
+.PHONY : src/Model/Personne/Chauffeur.cpp.obj
 
-src/Model/Dispatcher.i: src/Model/Dispatcher.cpp.i
-.PHONY : src/Model/Dispatcher.i
+src/Model/Personne/Chauffeur.i: src/Model/Personne/Chauffeur.cpp.i
+.PHONY : src/Model/Personne/Chauffeur.i
 
 # target to preprocess a source file
-src/Model/Dispatcher.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.i
-.PHONY : src/Model/Dispatcher.cpp.i
+src/Model/Personne/Chauffeur.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Chauffeur.cpp.i
+.PHONY : src/Model/Personne/Chauffeur.cpp.i
 
-src/Model/Dispatcher.s: src/Model/Dispatcher.cpp.s
-.PHONY : src/Model/Dispatcher.s
+src/Model/Personne/Chauffeur.s: src/Model/Personne/Chauffeur.cpp.s
+.PHONY : src/Model/Personne/Chauffeur.s
 
 # target to generate assembly for a file
-src/Model/Dispatcher.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Dispatcher.cpp.s
-.PHONY : src/Model/Dispatcher.cpp.s
+src/Model/Personne/Chauffeur.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Chauffeur.cpp.s
+.PHONY : src/Model/Personne/Chauffeur.cpp.s
 
-src/Model/Trajet.obj: src/Model/Trajet.cpp.obj
-.PHONY : src/Model/Trajet.obj
+src/Model/Personne/Dispatcher.obj: src/Model/Personne/Dispatcher.cpp.obj
+.PHONY : src/Model/Personne/Dispatcher.obj
 
 # target to build an object file
-src/Model/Trajet.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.obj
-.PHONY : src/Model/Trajet.cpp.obj
+src/Model/Personne/Dispatcher.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Dispatcher.cpp.obj
+.PHONY : src/Model/Personne/Dispatcher.cpp.obj
 
-src/Model/Trajet.i: src/Model/Trajet.cpp.i
-.PHONY : src/Model/Trajet.i
+src/Model/Personne/Dispatcher.i: src/Model/Personne/Dispatcher.cpp.i
+.PHONY : src/Model/Personne/Dispatcher.i
 
 # target to preprocess a source file
-src/Model/Trajet.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.i
-.PHONY : src/Model/Trajet.cpp.i
+src/Model/Personne/Dispatcher.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Dispatcher.cpp.i
+.PHONY : src/Model/Personne/Dispatcher.cpp.i
 
-src/Model/Trajet.s: src/Model/Trajet.cpp.s
-.PHONY : src/Model/Trajet.s
+src/Model/Personne/Dispatcher.s: src/Model/Personne/Dispatcher.cpp.s
+.PHONY : src/Model/Personne/Dispatcher.s
 
 # target to generate assembly for a file
-src/Model/Trajet.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Trajet.cpp.s
-.PHONY : src/Model/Trajet.cpp.s
+src/Model/Personne/Dispatcher.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Dispatcher.cpp.s
+.PHONY : src/Model/Personne/Dispatcher.cpp.s
+
+src/Model/Personne/Personne.obj: src/Model/Personne/Personne.cpp.obj
+.PHONY : src/Model/Personne/Personne.obj
+
+# target to build an object file
+src/Model/Personne/Personne.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Personne.cpp.obj
+.PHONY : src/Model/Personne/Personne.cpp.obj
+
+src/Model/Personne/Personne.i: src/Model/Personne/Personne.cpp.i
+.PHONY : src/Model/Personne/Personne.i
+
+# target to preprocess a source file
+src/Model/Personne/Personne.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Personne.cpp.i
+.PHONY : src/Model/Personne/Personne.cpp.i
+
+src/Model/Personne/Personne.s: src/Model/Personne/Personne.cpp.s
+.PHONY : src/Model/Personne/Personne.s
+
+# target to generate assembly for a file
+src/Model/Personne/Personne.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\LangloisMatteoDevObjet_ProjetSmartOrderManager.dir\build.make CMakeFiles/LangloisMatteoDevObjet_ProjetSmartOrderManager.dir/src/Model/Personne/Personne.cpp.s
+.PHONY : src/Model/Personne/Personne.cpp.s
 
 # Help Target
 help:
@@ -284,21 +308,24 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
-	@echo ... src/Model/Admin.obj
-	@echo ... src/Model/Admin.i
-	@echo ... src/Model/Admin.s
-	@echo ... src/Model/Chauffeur.obj
-	@echo ... src/Model/Chauffeur.i
-	@echo ... src/Model/Chauffeur.s
-	@echo ... src/Model/Colis.obj
-	@echo ... src/Model/Colis.i
-	@echo ... src/Model/Colis.s
-	@echo ... src/Model/Dispatcher.obj
-	@echo ... src/Model/Dispatcher.i
-	@echo ... src/Model/Dispatcher.s
-	@echo ... src/Model/Trajet.obj
-	@echo ... src/Model/Trajet.i
-	@echo ... src/Model/Trajet.s
+	@echo ... src/Model/Autre/Colis.obj
+	@echo ... src/Model/Autre/Colis.i
+	@echo ... src/Model/Autre/Colis.s
+	@echo ... src/Model/Autre/Trajet.obj
+	@echo ... src/Model/Autre/Trajet.i
+	@echo ... src/Model/Autre/Trajet.s
+	@echo ... src/Model/Personne/Admin.obj
+	@echo ... src/Model/Personne/Admin.i
+	@echo ... src/Model/Personne/Admin.s
+	@echo ... src/Model/Personne/Chauffeur.obj
+	@echo ... src/Model/Personne/Chauffeur.i
+	@echo ... src/Model/Personne/Chauffeur.s
+	@echo ... src/Model/Personne/Dispatcher.obj
+	@echo ... src/Model/Personne/Dispatcher.i
+	@echo ... src/Model/Personne/Dispatcher.s
+	@echo ... src/Model/Personne/Personne.obj
+	@echo ... src/Model/Personne/Personne.i
+	@echo ... src/Model/Personne/Personne.s
 .PHONY : help
 
 
